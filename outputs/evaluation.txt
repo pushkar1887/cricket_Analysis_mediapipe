@@ -1,0 +1,16 @@
+Shot Evaluation Summary
+=======================
+Impact frame index: 106
+
+-- Scores (0-10) --
+Head Position  : 4/10
+Footwork       : 1/10
+Swing Control  : 0/10
+Balance        : 5/10
+Follow-through : 0/10
+
+-- Feedback --
+Head Position  : Work: push weight forward; try getting head ahead of front knee at impact.
+Footwork       : Watch: front foot too open; may reduce stability.
+Swing Control  : Work: elbow too cramped — try lengthening front arm.
+Balance        : Good: forward lean supports forward weight transfer.
