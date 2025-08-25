@@ -63,17 +63,15 @@ Results exported to `evaluation.json` for downstream use.
 # 📂 Repository Structure
 
 .
-├── cover_drive_analysis_realtime.py   # Main pipeline script
-├── requirements.txt                   # Dependencies list
-├── README.md                          # Documentation
-└── output/                            # Output directory
-    ├── annotated_video.mp4            # Full-length annotated video with overlays
-    └── evaluation.json                # Final scores & feedback summary
+├── cover_drive_analysis_realtime.py # Main pipeline script
+├── requirements.txt # Dependencies list
+├── README.md # Documentation
+└── output/ # Output directory
+├── annotated_video.mp4 # Full-length annotated video with overlays
+└── evaluation.json # Final scores & feedback summary        
 
 
 
-
----
 
 ## 🚀 Installation & Usage
 
