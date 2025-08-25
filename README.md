@@ -87,24 +87,18 @@ cd real-time-cover-drive
 pip install -r requirements.txt
 ```
 
-📌 Assumptions & Limitations
+## 📌 Assumptions & Limitations
+- 🏏 **Bat tracking** is excluded in this scope.  
+- 📐 Metrics are **heuristic approximations**; further refinement is possible with cricket biomechanics research.  
+- 🎥 Performance depends on **camera angle**:  
+  - Works best with a **side-on view** of the batsman.  
+- ⚡ Real-time performance requires **mid-to-high spec CPU/GPU**.  
 
-Bat tracking is excluded in this scope.
+---
 
-Metrics are heuristic approximations; further refinement is possible with cricket biomechanics research.
+## 🔮 Future Improvements
+- 🪄 Integration of **bat tracking & swing arc analysis**.  
+- 🤖 Machine learning–based **shot classification** (cover drive, pull, cut, etc.).  
+- 📊 Use of **3D pose estimation** for more precise biomechanical evaluation.  
+- ☁️ Cloud-based **dashboard visualization** for multiple players/videos.  
 
-Performance depends on camera angle:
-
-Works best with side-on view of the batsman.
-
-Real-time performance requires mid-to-high spec CPU/GPU
-
-🔮 Future Improvements
-
-Integration of bat tracking & swing arc analysis.
-
-Machine learning–based shot classification (cover drive, pull, cut, etc.).
-
-Use of 3D pose estimation for more precise biomechanical evaluation.
-
-Cloud-based dashboard visualization for multiple players/videos.
