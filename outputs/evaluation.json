@@ -1,0 +1,34 @@
+{
+  "impact_index": 106,
+  "metrics": {
+    "elbow_angle": {
+      "median": 90.0,
+      "pct_good": 0.0
+    },
+    "spine_lean": {
+      "median": 18.121860302905137,
+      "pct_good": 0.909
+    },
+    "head_knee_dx": {
+      "median": -0.10277777749228395,
+      "pct_good": 0.0
+    },
+    "foot_angle": {
+      "median": 41.05481430436605,
+      "pct_good": 0.091
+    }
+  },
+  "scores": {
+    "Head Position": 4,
+    "Footwork": 1,
+    "Swing Control": 0,
+    "Balance": 5,
+    "Follow-through": 0
+  },
+  "feedback": {
+    "Head Position": "Work: push weight forward; try getting head ahead of front knee at impact.",
+    "Footwork": "Watch: front foot too open; may reduce stability.",
+    "Swing Control": "Work: elbow too cramped \u2014 try lengthening front arm.",
+    "Balance": "Good: forward lean supports forward weight transfer."
+  }
+}
